@@ -5,7 +5,7 @@ The LED will light up at any specified orientation of the GrayHill Switch. The 4
 
 ## Requirements 
 
--Arduino Nano
+-Arduino Nano\n
 -Arduino software to code and upload the truth table
 -LED
 -GrayHill Switch
