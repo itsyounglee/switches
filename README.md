@@ -6,12 +6,12 @@ The LED will light up at any specified orientation of the GrayHill Switch. The 4
 ## Requirements 
 
 -Arduino Nano<br />
--Arduino software to code and upload the truth table
--LED
--GrayHill Switch
--22 AUG wires
--5 1kΩ resistors
--Breadboard
+-Arduino software to code and upload the truth table<br />
+-LED<br />
+-GrayHill Switch<br />
+-22 AUG wires<br />
+-5 1kΩ resistors<br />
+-Breadboard<br />
 <equipment needed>
 
 ## Get started 
